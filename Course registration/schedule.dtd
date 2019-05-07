@@ -1,0 +1,9 @@
+<!ELEMENT schedule (class+)>
+<!ELEMENT class (CRN, CourseNumber, Section, Title, Credits, Alternates*)>
+<!ELEMENT CRN (#PCDATA)>
+<!ELEMENT CourseNumber (#PCDATA)>
+<!ELEMENT Section (#PCDATA)>
+<!ELEMENT Title (#PCDATA)>
+<!ELEMENT Credits (#PCDATA)>
+<!ELEMENT Alternates (#PCDATA)>
+<!ATTLIST class id CDATA #REQUIRED>

@@ -1,0 +1,63 @@
+<!DOCTYPE schedule SYSTEM "schedule.dtd">
+<?xml-stylesheet type="text/xsl" href="schedule.xsl" ?>
+<schedule>
+	<class id="1">
+	        <CRN>20099</CRN>
+		<CourseNumber>CITA330</CourseNumber>
+		<Section>001</Section>
+	    	<Title>EMERGING IT APPLICATIONS</Title>
+		<Credits>3.0</Credits>
+		<Alternates>.</Alternates>
+	</class>
+	<class id="2">
+	        <CRN>20117</CRN>
+		<CourseNumber>CITA400</CourseNumber>
+		<Section>001</Section>
+	    	<Title>QUANTITATIVE APPS TO MGMT</Title>
+		<Credits>3.0</Credits>
+		<Alternates>20894</Alternates>
+	</class>
+	<class id="3">
+	        <CRN>20187</CRN>
+		<CourseNumber>SOET370</CourseNumber>
+		<Section>0W1</Section>
+	    	<Title>ENGINEERING ECONOMICS</Title>
+		<Credits>3.0</Credits>
+		<Alternates>.</Alternates>
+	</class>
+	<class id="4">
+	        <CRN>20407</CRN>
+		<CourseNumber>SOET477</CourseNumber>
+		<Section>0W1</Section>
+	    	<Title>CAPSTONE PROJECT</Title>
+		<Credits>3.0</Credits>
+		<Alternates>20456</Alternates>
+		<Alternates>20567</Alternates>
+	</class>
+	<class id="5">
+	        <CRN>20726</CRN>
+		<CourseNumber>CITA352</CourseNumber>
+		<Section>001</Section>
+	    	<Title>ETHICAL HACKING &amp; PENETR TESTG</Title>
+		<Credits>3.0</Credits>
+		<Alternates>20689</Alternates>
+		<Alternates>20348</Alternates>
+		<Alternates>20963</Alternates>
+	</class>
+	<class id="6">
+	        <CRN>20802</CRN>
+		<CourseNumber>BSAD345</CourseNumber>
+		<Section>0W1</Section>
+	    	<Title>TECH INNOVATNS &amp; ENTREPRENEURS</Title>
+		<Credits>3.0</Credits>
+		<Alternates>.</Alternates>
+	</class>
+	<class id="7">
+		<CRN></CRN>
+		<CourseNumber></CourseNumber>
+		<Section></Section>
+		<Title>Total credits:</Title>
+		<Credits>18</Credits>
+		<Alternates></Alternates>
+	</class>
+</schedule>
